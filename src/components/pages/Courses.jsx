@@ -2,6 +2,6 @@ import React from 'react'
 
 export function Courses() {
   return (
-    <div>Courses</div>
+    <div className='w-full h-full'>Courses</div>
   )
 }
