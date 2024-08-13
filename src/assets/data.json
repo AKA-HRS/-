@@ -1,0 +1,170 @@
+[
+  {
+    "Course Title": "Introduction to React",
+    "Short Description": "Learn the fundamentals of React, including components, state management, and hooks.",
+    "Instructor Name": "Jane Doe",
+    "Course Duration": "4 weeks",
+    "View More": "https://example.com/react-course"
+  },
+  {
+    "Course Title": "Advanced JavaScript",
+    "Short Description": "Dive deep into advanced JavaScript concepts such as closures, async programming, and prototypes.",
+    "Instructor Name": "John Smith",
+    "Course Duration": "6 weeks",
+    "View More": "https://example.com/advanced-javascript"
+  },
+  {
+    "Course Title": "UI/UX Design Principles",
+    "Short Description": "Understand the key principles of user interface and user experience design to create engaging digital products.",
+    "Instructor Name": "Emily Johnson",
+    "Course Duration": "5 weeks",
+    "View More": "https://example.com/ui-ux-design"
+  },
+  {
+    "Course Title": "Python for Data Science",
+    "Short Description": "Learn Python programming and its applications in data analysis and visualization.",
+    "Instructor Name": "Michael Brown",
+    "Course Duration": "8 weeks",
+    "View More": "https://example.com/python-data-science"
+  },
+  {
+    "Course Title": "Full-Stack Web Development",
+    "Short Description": "Master both front-end and back-end development to build complete web applications.",
+    "Instructor Name": "Sarah Davis",
+    "Course Duration": "12 weeks",
+    "View More": "https://example.com/full-stack-development"
+  },
+  {
+    "Course Title": "Introduction to Machine Learning",
+    "Short Description": "Get started with machine learning, including algorithms, data processing, and model evaluation.",
+    "Instructor Name": "Daniel Lee",
+    "Course Duration": "7 weeks",
+    "View More": "https://example.com/machine-learning"
+  },
+  {
+    "Course Title": "Web Development Bootcamp",
+    "Short Description": "A comprehensive bootcamp covering HTML, CSS, JavaScript, and modern frameworks.",
+    "Instructor Name": "Rachel Adams",
+    "Course Duration": "10 weeks",
+    "View More": "https://example.com/web-development-bootcamp"
+  },
+  {
+    "Course Title": "Cybersecurity Fundamentals",
+    "Short Description": "Learn the basics of cybersecurity, including threat detection, encryption, and network security.",
+    "Instructor Name": "Christopher Miller",
+    "Course Duration": "6 weeks",
+    "View More": "https://example.com/cybersecurity-fundamentals"
+  },
+  {
+    "Course Title": "Database Management Systems",
+    "Short Description": "Understand the principles of database design, SQL, and database management systems.",
+    "Instructor Name": "Jessica Martinez",
+    "Course Duration": "8 weeks",
+    "View More": "https://example.com/database-management"
+  },
+  {
+    "Course Title": "Digital Marketing",
+    "Short Description": "Explore digital marketing strategies including SEO, content marketing, and social media.",
+    "Instructor Name": "William Wilson",
+    "Course Duration": "5 weeks",
+    "View More": "https://example.com/digital-marketing"
+  },
+  {
+    "Course Title": "Cloud Computing",
+    "Short Description": "Learn about cloud computing services, architecture, and deployment models.",
+    "Instructor Name": "Olivia Taylor",
+    "Course Duration": "6 weeks",
+    "View More": "https://example.com/cloud-computing"
+  },
+  {
+    "Course Title": "Introduction to Git and GitHub",
+    "Short Description": "Get familiar with version control using Git and collaboration on GitHub.",
+    "Instructor Name": "Andrew Anderson",
+    "Course Duration": "3 weeks",
+    "View More": "https://example.com/git-github"
+  },
+  {
+    "Course Title": "React Native for Mobile Development",
+    "Short Description": "Build cross-platform mobile apps using React Native.",
+    "Instructor Name": "Sophia Scott",
+    "Course Duration": "9 weeks",
+    "View More": "https://example.com/react-native"
+  },
+  {
+    "Course Title": "Java for Beginners",
+    "Short Description": "Learn Java programming from scratch, covering basics to advanced concepts.",
+    "Instructor Name": "James Walker",
+    "Course Duration": "7 weeks",
+    "View More": "https://example.com/java-for-beginners"
+  },
+  {
+    "Course Title": "Software Engineering Principles",
+    "Short Description": "Understand software engineering principles, methodologies, and best practices.",
+    "Instructor Name": "Emma Harris",
+    "Course Duration": "8 weeks",
+    "View More": "https://example.com/software-engineering"
+  },
+  {
+    "Course Title": "Data Visualization with D3.js",
+    "Short Description": "Create interactive data visualizations using the D3.js library.",
+    "Instructor Name": "Benjamin Lewis",
+    "Course Duration": "6 weeks",
+    "View More": "https://example.com/data-visualization-d3"
+  },
+  {
+    "Course Title": "Introduction to Docker and Containers",
+    "Short Description": "Learn about containerization and Docker basics for efficient software deployment.",
+    "Instructor Name": "Ava Hall",
+    "Course Duration": "4 weeks",
+    "View More": "https://example.com/docker-containers"
+  },
+  {
+    "Course Title": "Ethical Hacking",
+    "Short Description": "Explore the ethical aspects of hacking, penetration testing, and vulnerability assessment.",
+    "Instructor Name": "Noah Allen",
+    "Course Duration": "7 weeks",
+    "View More": "https://example.com/ethical-hacking"
+  },
+  {
+    "Course Title": "Introduction to SQL",
+    "Short Description": "Learn the basics of SQL for querying and managing relational databases.",
+    "Instructor Name": "Mia Young",
+    "Course Duration": "5 weeks",
+    "View More": "https://example.com/introduction-sql"
+  },
+  {
+    "Course Title": "Front-End Development with Vue.js",
+    "Short Description": "Get started with Vue.js for building modern, interactive web applications.",
+    "Instructor Name": "Ethan King",
+    "Course Duration": "6 weeks",
+    "View More": "https://example.com/vuejs-development"
+  },
+  {
+    "Course Title": "JavaScript Frameworks Comparison",
+    "Short Description": "Compare popular JavaScript frameworks like React, Angular, and Vue.js.",
+    "Instructor Name": "Isabella Wright",
+    "Course Duration": "4 weeks",
+    "View More": "https://example.com/js-frameworks"
+  },
+  {
+    "Course Title": "Mobile App Development with Flutter",
+    "Short Description": "Learn to develop natively compiled applications for mobile, web, and desktop from a single codebase using Flutter.",
+    "Instructor Name": "Liam Roberts",
+    "Course Duration": "9 weeks",
+    "View More": "https://example.com/flutter-development"
+  },
+  {
+    "Course Title": "Introduction to Data Analysis with R",
+    "Short Description": "Gain skills in data analysis and statistical computing using R programming language.",
+    "Instructor Name": "Charlotte Johnson",
+    "Course Duration": "6 weeks",
+    "View More": "https://example.com/data-analysis-r"
+  },
+  {
+    "Course Title": "Building RESTful APIs with Node.js",
+    "Short Description": "Learn how to create and manage RESTful APIs using Node.js and Express.",
+    "Instructor Name": "Lucas Martinez",
+    "Course Duration": "7 weeks",
+    "View More": "https://example.com/restful-apis-nodejs"
+  }
+]
