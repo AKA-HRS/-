@@ -1,4 +1,5 @@
+export { Home } from "./Home";
 export { About } from "./About";
 export { Timing } from "./Timing";
-export { Home } from "./Home";
+export { Pricing } from "./Pricing";
 export { Courses } from "./Courses";

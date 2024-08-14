@@ -43,7 +43,7 @@ export function Home() {
                 onClick={() => setNav("/courses")}
                 className="text-white shadow-2xl shadow-gray-500 p-2 md:px-8 px-3 rounded-full bg-gradient-to-r from-purple-700 to-purple-500 font-bold"
               >
-                Apply now
+                Explore now
               </button>
               <button
                 onClick={() => setNav("/about")}

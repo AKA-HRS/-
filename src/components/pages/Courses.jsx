@@ -7,11 +7,12 @@ export function Courses() {
     <div className="w-full h-full flex flex-wrap gap-5 justify-center p-5 max-md:gap-x-1.5 max-md:gap-y-5  overflow-y-scroll">
       {data.map((d, i) => (
         <Card
-        key={i}
+          key={i}
           title={d["Course Title"]}
           desc={d["Short Description"]}
           teach={d["Instructor Name"]}
           dur={d["Course Duration"]}
+          video={d["Video Link"]}
           link={d["View More"]}
         />
       ))}

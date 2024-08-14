@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Layout";
-import { Home, About, Courses, Timing } from "./components/pages";
+import { Home, About, Courses, Timing, Pricing } from "./components/pages";
 import { NavContextProvider } from "./components/context/NavContext";
 
 function App() {
@@ -14,6 +14,7 @@ function App() {
               <Route exact path="/about" element={<About />} />
               <Route exact path="/courses" element={<Courses />} />
               <Route exact path="/timing" element={<Timing />} />
+              <Route exact path="/pricing/:title" element={<Pricing />} />
             </Route>
           </Routes>
         </NavContextProvider>
