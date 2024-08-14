@@ -17,8 +17,8 @@
     var(--shine-deg),
     transparent 20%,
     transparent 40%,
-    rgb(68, 68, 68, 0.2) 50%,
-    rgb(68, 68, 68, 0.2) 55%,
+    rgba(255, 255, 255, 0.705) 50%,
+    rgba(255, 255, 255, 0.2) 55%,
     transparent 70%,
     transparent 100%
   );

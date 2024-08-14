@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Layout";
-import { Home, About, Courses, Timing, Pricing } from "./components/pages";
+import { Home, About, Courses, Timing, Error404 } from "./components/pages";
 import { NavContextProvider } from "./components/context/NavContext";
 
 function App() {
@@ -9,12 +9,13 @@ function App() {
       <BrowserRouter>
         <NavContextProvider>
           <Routes>
-            <Route exact path="/" element={<Layout />}>
+            <Route path="/" element={<Layout />}>
               <Route index element={<Home />} />
-              <Route exact path="/about" element={<About />} />
-              <Route exact path="/courses" element={<Courses />} />
-              <Route exact path="/timing" element={<Timing />} />
-              <Route exact path="/pricing/:title" element={<Pricing />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/courses" element={<Courses />} />
+              <Route path="/course/enroll/:title" element={<Courses />} />
+              <Route path="/timing" element={<Timing />} />
+              <Route path="*" element={<Error404 />} />
             </Route>
           </Routes>
         </NavContextProvider>
