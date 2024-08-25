@@ -14,7 +14,6 @@ function App() {
               <Route path="/about" element={<About />} />
               <Route path="/courses" element={<Courses />} />
               <Route path="/course/enroll/:title" element={<Courses />} />
-              <Route path="/timing" element={<Timing />} />
               <Route path="*" element={<Error404 />} />
             </Route>
           </Routes>

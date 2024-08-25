@@ -12,10 +12,6 @@ const btns = [
     path: "/about",
   },
   {
-    title: "Timing",
-    path: "/timing",
-  },
-  {
     title: "Courses",
     path: "/courses",
   },

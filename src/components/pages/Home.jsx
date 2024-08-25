@@ -1,6 +1,4 @@
 import React from "react";
-import { Shape } from "../ui";
-import test from "../../assets/test.jpg";
 import insta from "../../assets/insta.svg";
 import facebook from "../../assets/facebook.svg";
 import twitter from "../../assets/twitter.svg";
@@ -52,19 +50,6 @@ export function Home() {
                 Read More
               </button>
             </div>
-          </div>
-        </div>
-
-        <div className="flex-1 flex justify-center relative items-center">
-          <div className="md:w-96 md:h-96 relative flex justify-center items-center p-5 bg-yellow-500">
-            <Shape ani="rotate-shape 5s linear infinite">
-              <img
-                src={test}
-                alt=""
-                className="background-img"
-                // style={{ animation: "rotate-image 5s linear infinite" }}
-              />
-            </Shape>
           </div>
         </div>
       </div>
